@@ -38,3 +38,23 @@ h3 {
   padding: 1em;
   font-weight: 500;
 }
+ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 1em;
+  text-indent: -1em;
+  font-size: 20px;
+    text-align: center;
+
+}
+li:before {
+  content: "►";
+  display: block;
+  float: left;
+  width: 1.2em;
+  color: var(--darkAccent);
+  margin-right: 22px;
+}
+li{
+  margin-bottom: 22px;
+}

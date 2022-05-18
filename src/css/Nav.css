@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
 nav {
 	width: 100%;
 	position: sticky;
@@ -33,4 +34,13 @@ nav span.activeClass i {
 
 nav span.activeClass {
 	border-bottom-color: var(--lightAccent);
+}
+#nameTag{
+	pointer-events: none;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	top: 0;
+	font-family: 'Secular One', sans-serif;
+	font-size:20px
 }

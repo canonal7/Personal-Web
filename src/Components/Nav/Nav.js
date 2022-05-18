@@ -15,7 +15,7 @@ const Nav = () => {
 					
 				/>
 			))}
-			<h3>Can Onal</h3>
+			<span id ='nameTag'>CAN ONAL</span>
 		</nav>
 	)
 }
