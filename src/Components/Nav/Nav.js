@@ -15,6 +15,7 @@ const Nav = () => {
 					
 				/>
 			))}
+			<h3>Can Onal</h3>
 		</nav>
 	)
 }
