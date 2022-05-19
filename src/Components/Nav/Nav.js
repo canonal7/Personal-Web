@@ -15,7 +15,7 @@ const Nav = () => {
 					
 				/>
 			))}
-			<span id ='nameTag'>CAN ONAL</span>
+			<span className='d-none d-lg-block' id ='nameTag'>CAN ONAL</span>
 		</nav>
 	)
 }
