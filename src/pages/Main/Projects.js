@@ -15,7 +15,7 @@ const Projects = () => {
 			<div>
 				<h3>PROJECTS</h3>
 				<p>For my projects you can view my GitHub profile</p>
-				<a href="https://github.com/canonal7">
+				<a target = "_blank" href="https://github.com/canonal7">
 					<img className = "icon" src={github_icon} alt="" />
 				</a>
 			</div>
