@@ -12,7 +12,7 @@ const About = () => {
 	return (
 		<section ref={aboutRef} id='aboutCont'>
 			<img
-				src='../public/my_photo.jpg'
+				src='../../../public/my_photo.jpg'
 				alt='my-photo'
 			/>
 			<div>
