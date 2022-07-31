@@ -12,7 +12,7 @@ const About = () => {
 	return (
 		<section ref={aboutRef} id='aboutCont'>
 			<img
-				src='https://media-exp1.licdn.com/dms/image/C5603AQFOBB7iCx65ig/profile-displayphoto-shrink_800_800/0/1606845849441?e=1658361600&v=beta&t=Bslf26Ko8HoTbw8NIOSRoIadBfZQ2ni18-z-MBVgdak'
+				src='../public/my_photo.jpg'
 				alt='my-photo'
 			/>
 			<div>
