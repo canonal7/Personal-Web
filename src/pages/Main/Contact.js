@@ -21,7 +21,7 @@ const Contact = () => {
 			/>
 			<div>
 				<h3>CONTACT ME</h3>
-					<a href="mailto:can.onal@ug.bilkent.edu.tr">
+					<a href="mailto:jcanonal@gmail.com">
 					<img className = "mailIcon"src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="" />
 					</a>
 					<a target = "_blank" href = "https://www.linkedin.com/in/can-onal/">
