@@ -19,10 +19,11 @@ const About = () => {
 				<h3>ABOUT ME</h3>
 				<p id = 'Iam'>I am:</p>
 				<ul>
-					<li>a junior Computer Science student at Bilkent University</li>
-					<li>interested and experienced in Frontend Development</li>
+					<li>a Computer Science graduate from Bilkent University</li>
+					<li>a Master's student at JADS studying Data Science in Business and Entrepreneurship</li>					
+					<li>a fullstack developer and Data Scientist/Engineer</li>
 				</ul>
-				<a target = "_blank" href="https://www.dropbox.com/s/irhu60573ex0xb4/CanOnalResume-4.pdf?dl=0">
+				<a target = "_blank" href="https://www.dropbox.com/scl/fi/kpe23bll17zdlisknmla8/Can-nal-Resume-3.pdf?rlkey=es1qubx9j5mtwl5xr3jhuglne&st=7ixmuvqz&dl=0">
 
 					<p>You can view and download my resume here</p>
 				</a>
