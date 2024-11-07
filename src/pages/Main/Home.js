@@ -9,7 +9,7 @@ const Home = () => {
 	return (
 		<section ref={homeRef} id='homeCont'>
 			<img
-				src='https://source.unsplash.com/random/600x600/?code'
+				src='https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 				alt='unsplash-img'
 			/>
 			<div>
