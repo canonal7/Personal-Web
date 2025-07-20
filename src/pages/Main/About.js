@@ -19,7 +19,7 @@ const About = () => {
         <ul>
           <li>🎓 A Computer Science graduate from Bilkent University</li>
           <li>
-            📚 A Master's student at JADS studying Data Science in Business and
+            📚 A Master's graduate from JADS in Data Science in Business and
             Entrepreneurship
           </li>
           <li>
